@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <barnapet>
+   # barnapet
 
    # Input:
    # p, principal amount
